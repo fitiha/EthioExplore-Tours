@@ -22,7 +22,7 @@ _________________________________________________________
 
 📝 **Tour Blogs:** Share your unique travel stories and experiences with our community by using our Tour Blogs feature. Document your adventures, add photos, and create a lasting memory of your tour that others can enjoy.
 
-🚀 **Next-Level User Experience:** We're dedicated to making your experience even more enjoyable. In the future, we plan to add exciting new features and enhancements that will take your journey planning to the next level. Stay tuned for more updates!
+🚀 **Next-Level User Experience:** We're dedicated to making your experience even more enjoyable. In the future, we plan to add exciting new features and enhancements that will take your journey planning to the next level.
 
 🌐 **Global Expansion:** Our vision extends beyond Ethiopia's borders. We'll be working on expanding our services to include even more incredible international destinations, providing you with even more travel options.
 
