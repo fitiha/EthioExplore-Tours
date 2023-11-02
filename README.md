@@ -5,7 +5,7 @@ ____________________________________________________________
 ExploreEthio Tours is your gateway to unforgettable adventures in Ethiopia and beyond. We are a premier touring organization that specializes in providing immersive and enriching experiences for both local and international travelers. Our user-friendly website is designed to cater to your every touring need, making your journey planning as seamless as possible.
 
 ____________________________________________________________
-**Key Features **
+**Key Features**
 
 🌍 **Extensive Destination Catalog:** ExploreEthio Tours showcases a wide array of captivating destinations both inside and outside Ethiopia. From the lush landscapes of the Simien Mountains to the exotic allure of Zanzibar's beaches, we've got it all. Our comprehensive database helps you explore and select your dream travel destinations.
 
