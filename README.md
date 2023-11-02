@@ -18,7 +18,7 @@ ____________________________________________________________
 🌟 **Additional Features:** We continuously strive to enhance your user experience. Our website will make new features and enhancements that make your journey planning smoother, more exciting, and even more engaging.
 
 _________________________________________________________
-**Future Plans:**
+**Future Plans**
 
 📝 **Tour Blogs:** Share your unique travel stories and experiences with our community by using our Tour Blogs feature. Document your adventures, add photos, and create a lasting memory of your tour that others can enjoy.
 
